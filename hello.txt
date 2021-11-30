@@ -14,3 +14,4 @@ hello git!hello atguigu! hot-fix test
 hello git!hello atguiguhello git!hello atguigu!
 edit on github.com;
 edit on git-demo by pzistart;
+ssh验证
